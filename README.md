@@ -4,10 +4,9 @@
 
 ## Running the spiders
 You can run a spider using the scrapy crawl command, such as:
-```python
+
 $ scrapy crawl ruetunis
-print s
-```
+
 
 ---
 ## Feedback
